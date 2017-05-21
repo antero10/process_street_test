@@ -1,0 +1,24 @@
+{
+  "name": "ProcessStreetTest",
+  "authors": [
+    "Antero <antero105@gmail.com>"
+  ],
+  "description": "Process Street Test",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-ui-router": "0.3.1",
+    "blueimp-file-upload": "^9.18.0",
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}
