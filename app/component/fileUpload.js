@@ -2,7 +2,7 @@
 
 angular.module('processTestApp',['blueimp.fileupload'])
   .constant('Config', {
-    'TOKEN': 'd3098b3e8682e8ec85221d54cbf681050ac8ec6caa656aaff5eba0fa15a7a0ad'
+    'TOKEN': ''
   })
   .component('fileupload', {
     templateUrl: 'views/fileUpload.html',
